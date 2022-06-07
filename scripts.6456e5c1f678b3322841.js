@@ -1,0 +1,1 @@
+window.fbAsyncInit=function(){FB.init({xfbml:!0,version:"v10.0"})},function(e,t,n){var c,o=e.getElementsByTagName(t)[0];e.getElementById(n)||((c=e.createElement(t)).id=n,c.src="https://connect.facebook.net/es_ES/sdk/xfbml.customerchat.js",o.parentNode.insertBefore(c,o))}(document,"script","facebook-jssdk");
